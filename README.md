@@ -2,20 +2,20 @@
 ```
 ```
 
-#Stack Manupulation
+# Stack Manupulation
 sets currect cell of set number of "o"s
 corororororona <- add 6 into the current stack
 masasasasasask <- remove from the current stack
 
-#Stack Movements
+# Stack Movements
 get  <- move to next cell in the stack
 more <- move to previous cell in the stack
 
-#Loops
+# Loops
 isolate <- starts loop
 expose  <- ends loop
 
-#IO
+# IO
 achoo <- print
 gasp  <- read
 
