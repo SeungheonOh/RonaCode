@@ -75,7 +75,7 @@ How to Run
 ==========
 
 On your command line:
-python3 rona.py examples/fibo.rona
+        python3 rona.py examples/fibo.rona
 
 Credits
 =======
