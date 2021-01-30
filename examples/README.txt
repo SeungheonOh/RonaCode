@@ -1,7 +1,7 @@
 Examples
 ========
 
-These examples are trans-compiled from fabianishere/brainfuck/examples[1] at Github
+Some of examples are trans-compiled from fabianishere/brainfuck/examples[1] at Github
 
 Files
 =====
