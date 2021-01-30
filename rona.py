@@ -1,3 +1,6 @@
+# © 2020 Seungheon Oh
+# 'Ronacode interpreter implemented in python3
+
 import sys
 import re
 
