@@ -38,4 +38,5 @@ if __name__ == '__main__':
             rona += "gasp "
         elif cmd == '.':
             rona += "achoo "
+    print()
     print(rona)
