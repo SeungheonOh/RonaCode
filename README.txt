@@ -71,6 +71,12 @@ examples    - 'RonaCode examples, read examples/README.txt for more information
 bftorona.py - BF to 'RonaCode Trans-compiler
 rona.py     - 'RonaCode interpreter, reads from file (REPL[2] planned)
 
+How to Run
+==========
+
+On your command line:
+python3 rona.py examples/fibo.rona
+
 Credits
 =======
 
